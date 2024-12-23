@@ -1,0 +1,102 @@
+[
+    {
+     "id": 1,
+     "logo": "https://i.ibb.co.com/DG25BFw/pngwing-1.png",
+     "bookNames": "The Catcher in the Rye",
+     "writerName": "By : Awlad Hossain",
+     "story": "Fiction",
+     "poin":"5.00",
+     "btn":"Young Adult",
+     "btn-1":"Identity",
+     "review":"Sit amet consectetur.Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare."
+   },
+   {
+    "id": 2,
+    "logo": "https://i.ibb.co.com/r3HKS7W/kindpng-7318921.png",
+    "bookNames": "The Catcher in the Rye",
+    "writerName": "By : Awlad Hossain",
+    "story": "Fiction",
+    "poin":"5.00",
+    "btn":"Young Adult",
+    "btn-1":"Identity",
+    "review":"Sit amet consectetur.Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare."
+    
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co.com/tZcrgY7/kindpng-1064993.png",
+    "bookNames": "The Catcher in the Rye",
+    "writerName": "By : Awlad Hossain",
+    "story": "Fiction",
+    "poin":"5.00",
+    "btn":"Young Adult",
+    "btn1":"Identity",
+    "review":"Sit amet consectetur.Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare."
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co.com/xjY3y9X/kindpng-4022054-1.png",
+    "bookNames": "The Catcher in the Rye",
+    "writerName": "By : Awlad Hossain",
+    "story": "Fiction",
+    "poin":"5.00",
+    "btn":"Young Adult",
+    "btn1":"Identity",
+    "review":"Sit amet consectetur.Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare."
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co.com/89CwwGJ/kindpng-81724-1.png",
+    "bookNames": "The Catcher in the Rye",
+    "writerName": "By : Awlad Hossain",
+    "story": "Fiction",
+    "poin":"5.00",
+    "btn":"Young Adult",
+    "btn1":"Identity",
+    "review":"Sit amet consectetur.Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare."
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co.com/syh92n1/kindpng-2193744-1.png",
+    "bookNames": "The Catcher in the Rye",
+    "writerName": "By : Awlad Hossain",
+    "story": "Fiction",
+    "poin":"5.00",
+    "btn":"Young Adult",
+    "btn1":"Identity",
+    "review":"Sit amet consectetur.Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare."
+  },
+  {
+    "id": 7,
+    "logo": "https://i.ibb.co.com/MhjWZFm/kindpng-5624060-1.png",
+    "bookNames": "The Catcher in the Rye",
+    "writerName": "By : Awlad Hossain",
+    "story": "Fiction",
+    "poin":"5.00",
+    "btn":"Young Adult",
+    "btn1":"Identity",
+    "review":"Sit amet consectetur.Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare."
+  },
+  {
+    "id": 8,
+    "logo": "https://i.ibb.co.com/DG25BFw/pngwing-1.png",
+    "bookNames": "The Catcher in the Rye",
+    "writerName": "By : Awlad Hossain",
+    "story": "Fiction",
+    "poin":"5.00",
+    "btn":"Young Adult",
+    "btn1":"Identity",
+    "review":"Sit amet consectetur.Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare."
+  },
+  {
+    "id": 9,
+    "logo": "https://i.ibb.co.com/3vnhHBm/kindpng-4945926-1.png",
+    "bookNames": "The Catcher in the Rye",
+    "writerName": "By : Awlad Hossain",
+    "story": "Fiction",
+    "poin":"5.00",
+    "btn":"Young Adult",
+    "btn1":"Identity",
+    "review":"Sit amet consectetur.Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare."
+  }
+]
